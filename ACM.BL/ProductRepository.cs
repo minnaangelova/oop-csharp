@@ -16,6 +16,11 @@ namespace ACM.BL
             //Pass in the requaested Id
             Product product = new Product(productId);
 
+            Object myObject = new Object();
+            Console.WriteLine("Object: " + myObject.ToString());
+            Console.WriteLine("Product: " + product.ToString());
+
+
             //Code that retrieves the defined product
 
             //Temporary hard coded values
@@ -29,11 +34,22 @@ namespace ACM.BL
             return product;
         }
         //saves the current product
-        public bool Save()
+        public bool Save(Product product)
         {
-            //code that saves the defined product\
-            return true;
-        }
+            var success = true;
 
+            if (product.HasChanges && product.IsValid)
+            {
+                if (product.IsNew)
+                {
+                    //Call an insert stored procedure
+                }
+                else
+                {
+                    //Call an update store procedure
+                }
+            }
+            return success;
+        }
     }
 }

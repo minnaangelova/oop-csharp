@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{393B8D32
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BLTest", "ACM.BLTest\ACM.BLTest.csproj", "{324C7164-8069-44F2-AF3C-3C8236367DCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.Common", "Acme.Common\Acme.Common.csproj", "{F875FDC7-8318-4B97-8E20-1E7DB7EB9C01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.CommonTest", "Acme.CommonTest\Acme.CommonTest.csproj", "{4B05E2A3-6A7A-4BFF-B61B-6EA9AFE91FE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +27,21 @@ Global
 		{324C7164-8069-44F2-AF3C-3C8236367DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{324C7164-8069-44F2-AF3C-3C8236367DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{324C7164-8069-44F2-AF3C-3C8236367DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F875FDC7-8318-4B97-8E20-1E7DB7EB9C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F875FDC7-8318-4B97-8E20-1E7DB7EB9C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F875FDC7-8318-4B97-8E20-1E7DB7EB9C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F875FDC7-8318-4B97-8E20-1E7DB7EB9C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B05E2A3-6A7A-4BFF-B61B-6EA9AFE91FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B05E2A3-6A7A-4BFF-B61B-6EA9AFE91FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B05E2A3-6A7A-4BFF-B61B-6EA9AFE91FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B05E2A3-6A7A-4BFF-B61B-6EA9AFE91FE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{324C7164-8069-44F2-AF3C-3C8236367DCD} = {393B8D32-9B4D-4726-9940-F2C5465DBDB9}
+		{4B05E2A3-6A7A-4BFF-B61B-6EA9AFE91FE7} = {393B8D32-9B4D-4726-9940-F2C5465DBDB9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {226FD3DB-40F0-4EA8-B912-C25642A45EB4}

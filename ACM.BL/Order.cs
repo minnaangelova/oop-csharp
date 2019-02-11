@@ -19,6 +19,20 @@ namespace ACM.BL
             this.OrderId = orderId;
         }
 
+        public int CustomerId
+        {
+            get;
+            set;
+        }
+
+        public int ShippingAddressId
+        {
+            get;
+            set;
+        }
+            
+
+
         public DateTimeOffset? OrderDate
         {
             get;
@@ -31,8 +45,6 @@ namespace ACM.BL
             private set;
         }
 
-      
-
         //Validates the order data
         public bool Validate()
         {
@@ -43,7 +55,9 @@ namespace ACM.BL
             }
             return isValid;
         }
-
-
+        public override string ToString()
+        {
+            return OrderDate.Value.Date + " ("+OrderId + ") ";
+        }
     }
 }

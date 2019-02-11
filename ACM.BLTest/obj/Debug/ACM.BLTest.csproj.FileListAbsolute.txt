@@ -14,3 +14,6 @@ C:\Users\User\source\repos\ACM.BL\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CoreCom
 C:\Users\User\source\repos\ACM.BL\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
 C:\Users\User\source\repos\ACM.BL\ACM.BLTest\obj\Debug\ACM.BLTest.dll
 C:\Users\User\source\repos\ACM.BL\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+C:\Users\User\source\repos\ACM.BL\ACM.BLTest\bin\Debug\Acme.Common.dll
+C:\Users\User\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netstandard.dll
+C:\Users\User\source\repos\ACM.BL\ACM.BLTest\bin\Debug\Acme.Common.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ACM.BL\Acme.Common\bin\Debug\netstandard2.0\Acme.Common.deps.json
+C:\Users\User\source\repos\ACM.BL\Acme.Common\bin\Debug\netstandard2.0\Acme.Common.dll
+C:\Users\User\source\repos\ACM.BL\Acme.Common\bin\Debug\netstandard2.0\Acme.Common.pdb
+C:\Users\User\source\repos\ACM.BL\Acme.Common\obj\Debug\netstandard2.0\Acme.Common.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ACM.BL\Acme.Common\obj\Debug\netstandard2.0\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ACM.BL\Acme.Common\obj\Debug\netstandard2.0\Acme.Common.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ACM.BL\Acme.Common\obj\Debug\netstandard2.0\Acme.Common.AssemblyInfo.cs
+C:\Users\User\source\repos\ACM.BL\Acme.Common\obj\Debug\netstandard2.0\Acme.Common.dll
+C:\Users\User\source\repos\ACM.BL\Acme.Common\obj\Debug\netstandard2.0\Acme.Common.pdb

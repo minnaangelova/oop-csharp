@@ -27,6 +27,7 @@ namespace ACM.BL
             set;
         }
 
+        public int CustomerType { get; set; }
 
         public static int InstanceCount { get; set; }
 
@@ -95,6 +96,9 @@ namespace ACM.BL
             }
             return isValid;
         }
-
+        public override string ToString()
+        {
+            return FullName;
+        }
     }
 }
