@@ -110,3 +110,5 @@ C:\Users\User\source\repos\ACM.BL\Acme.CommonTest\obj\Debug\Acme.CommonTest.cspr
 C:\Users\User\source\repos\ACM.BL\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
 C:\Users\User\source\repos\ACM.BL\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
 C:\Users\User\source\repos\ACM.BL\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
+C:\Users\User\source\repos\ACM.BL\Acme.CommonTest\bin\Debug\ACM.BL.dll
+C:\Users\User\source\repos\ACM.BL\Acme.CommonTest\bin\Debug\ACM.BL.pdb
